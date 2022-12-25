@@ -1,0 +1,3 @@
+var FBRESA = "https://secure.staah.com/common-cgi/package/packagebooking.pl";
+var FB_nb_day_delay = 0;
+var FB_useGoogleAnalytics = false;

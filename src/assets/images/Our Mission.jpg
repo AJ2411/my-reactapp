@@ -1,0 +1,986 @@
+<!DOCTYPE html>
+<!-- saved from url=(0041)https://www.hrhhotels.com/our_mission.php -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>Our Mission</title>
+<!-- Website's title ( it will be shown in browser's tab ), Change the website's title based on your Hotel information -->
+	<meta name="description" content="HRH Hotel">
+	<!-- Add your Hotel short description -->
+	<meta name="keywords" content="HRH Hotel">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--meta name="viewport"
+		  content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"-->
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+	<link rel="canonical" href="https://www.hrhhotels.com/our_mission.php">
+	
+	<link href="./Our Mission_files/css" rel="stylesheet" type="text/css"><!-- Attach Google fonts -->
+	<link rel="stylesheet" type="text/css" href="./Our Mission_files/styles.css"><!-- Attach the main stylesheet file -->
+	<script type="text/javascript" async="" src="./Our Mission_files/analytics.js.download"></script><script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "Organization",
+	  "name": "HRH Hotels",
+	  "url": "https://www.hrhhotels.com/",
+	  "logo": "https://www.hrhhotels.com/img/Hrh_logo.png",
+	  "contactPoint": [{
+	    "@type": "ContactPoint",
+	    "telephone": "+9118001802933",
+	    "contactType": "reservations",
+	    "contactOption": "TollFree",
+	    "areaServed": "IN",
+	    "availableLanguage": ["en","Hindi"]
+	  },{
+	    "@type": "ContactPoint",
+	    "telephone": "+ 919820813919",
+	    "contactType": "sales",
+	    "contactOption": "TollFree",
+	    "areaServed": "IN",
+	    "availableLanguage": ["en","Hindi"]
+	  },{
+	    "@type": "ContactPoint",
+	    "telephone": " +919824376172",
+	    "contactType": "customer service",
+	    "contactOption": "TollFree",
+	    "areaServed": "IN",
+	    "availableLanguage": ["en","Hindi"]
+	  }],
+	  "sameAs": [
+	    "https://www.facebook.com/HRHHotels/",
+	    "https://twitter.com/HRHhotels",
+	    "https://www.instagram.com/hrhgroupofhotels/"
+	  ]
+	}
+	</script>
+<style type="text/css">
+	#welcome-section .r-sec .user-img-box .inner-box img {
+    margin: 10px 0 !important;
+    position: relative;
+    z-index: 1;
+    width: 95%;
+}
+</style>
+<link rel="canonical" href="https://www.hrhhotels.com/our_mission.php"></head>
+<body>
+	<div class="main-wrapper">
+		<!-- Header Section -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+
+ <script src="./Our Mission_files/jquery-2.2.4.min.js.download" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+   <script src="./Our Mission_files/jquery-ui.js.download"></script>
+<script async="" src="./Our Mission_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-389808-3');
+</script>
+<script type="text/javascript" src="./Our Mission_files/fbparam.js.download"></script>
+<script type="text/javascript" src="./Our Mission_files/fblib.js.download"></script>
+	<div class="navbar-top-fixed bar-fixed  hidden-xs">
+        <div class="container container_half">
+            <div class="col-xs-12 columns">
+                <div class="navigation-widgets">
+                   
+
+                    <div class="nav-widget">
+                        <p><a href="https://www.hrhhotels.com/index.php"><i class="fa fa-home"></i>Home</a></p>
+                    </div>
+                    <div class="nav-widget">
+                        <p><i class="fa fa-map-marker"></i><strong>Rajasthan</strong></p>
+                    </div>
+
+                    <div class="nav-widget">
+                       
+                        <p><a class="sp-lk" href="https://www.hrhhotels.com/media_buzz.php">Media</a></p>
+                    </div>
+										<div class="nav-widget">
+												<p><a class="sp-lk" href="https://www.hrhhotels.com/special-package.php">Special Packages</a></p>
+										</div>
+                    <div class="nav-widget-reservation nav-widget">
+                        <div class="res-i"><i class="fa fa-calendar-check-o "></i><span> Reservation</span></div>
+                    </div>
+                    <div class="social_header nav-widget">
+                       <div class="menu-item social-profiles-menu">
+                          <ul>
+                              <li class="profile"><a href="https://www.facebook.com/HRHHotels/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                              <li class="profile"><a href="https://twitter.com/HRHhotels" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                              <li class="profile"><a href="https://www.hrhhotels.com/instagram.com/hrhhotels" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                          </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+      <div class="mobile-additional-bar">
+                <div class="nav-widget-reservation nav-widget">
+                    <div>
+                        <div class="res-i"><i class="fa fa-calendar-check-o "></i><span> Reservation</span></div>
+                    </div>
+                </div>
+            </div>
+          <div class="hrh-widget-reservation hrh-reservation-container" style="width: 508.662px;">
+        <div class="res-i"><span></span></div>
+        <div class="success-message">
+            <h5>Your message was sent successfully</h5></div>
+        <h4 class="book_title" style="text-align: center;">Find &amp; book your hotel</h4>
+        <div class="widget-reservation-form">
+        <style type="text/css">
+            .input-box{
+                width: 100%;
+                /*float: left;*/
+                display: inline-block;
+                /*margin-bottom: 20px;*/
+            }
+            .input-box label{                
+                color: #000;
+                text-transform: uppercase;
+                letter-spacing: 0.5px;
+                font-size: 13px;
+            }
+            .input-box input{
+                color: #fff;
+                border-color: transparent;
+                border: none !important;
+                box-shadow: none !important;
+            }
+            .input-box select{
+                width: 100%;
+                margin: 0 0 1rem;
+                font-size: 1rem;
+                color: #fff !important;
+                font-family: inherit;
+                line-height: normal;
+                background-color: #fff;
+                border-radius: 0;
+                background: #957846;
+                border: #957846;
+                -webkit-appearance: none;
+            }
+            .inp-box {
+                width: 48%;
+                float: left;
+                /*margin-right: 14px;*/
+            }
+            .inp-box:last-of-type{
+                float: right;
+                /*margin-left: 10px;*/
+            }
+            .submit-block input[type="submit"] {
+                width: 30%;
+                padding: 15px;
+            }
+        </style>
+
+         
+            
+            <form action="javascript:void(0);" method="post">
+
+          
+                <div class="input-box">
+                    <label>Select Hotels</label>
+                    <select name="room-type" class="text_box" id="hotel">
+                        <option value="13459">Jagmandir Island Palace, Udaipur</option>
+                        <option value="13305">Shiv Niwas Palace,Udaipur</option>
+                        <!-- <option value="13324">Fateh Prakash Palace, Udaipur</option> -->
+                        <option value="13442">Shikarbadi Hotel, Udaipur</option>
+                        <option value="13453">Garden Hotel, Udaipur</option>
+                        <option value="13463">The Aodhi, Kumbhalgarh</option>
+                        <option value="13466">Fateh Bagh Palace, Ranakpur</option>
+                        <option value="13489">Karni Bhawan Palace, Bikaner</option>
+                        <option value="13488">Gajner Palace, Bikaner</option>
+                        <!-- <option value="13485">Gorbandh Palace, Jaisalmer</option> -->
+                    </select>
+                </div>
+                <div class="input-box">
+                    <label>Arrival</label>
+                    <input type="text" id="arrival_date" class="datepicker" name="arrival">
+                </div>
+                <div class="input-box">
+                    <label>Departure</label>
+                    <input type="text" id="departure_date" class="datepicker" name="departure">
+                </div>
+                <div class="input-box">
+                    <label>Promo Code</label>
+                    <input type="text" name="" placeholder="Enter Promo Code">
+                </div>
+                <div class="input-box hide">
+                    <label>Rooms</label>
+                    <div class="inp-box">
+                        <label>Adult</label>
+                        <select name="adult" id="adultcount">
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                            <option>5</option>
+                        </select>
+                    </div>
+                    <div class="inp-box ">
+                        <label>Child</label>
+                        <select name="child" id="childcount">
+						    <option>0</option>
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                            <option>5</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="input-box submit-block">
+                    <input type="submit" id="reservation_submit" value="Book Online">
+                </div>
+            </form>
+        </div>
+    </div>
+<script>
+   
+            var reservation_url = 'https://secure.staah.com/common-cgi/package/packagebooking.pl';
+            //propertyId=13324&unk=107&header=&flexible=&frame=&bookingSource=&source=&layout=&Ln=en&device=&checkIn=29%20May%202019&checkOut=30%20May%202019
+            $('#reservation_submit').click(function(e){
+                //console.log('dadasad');
+                e.preventDefault();
+
+                var hotel = $("#hotel").val();
+                var arrival_date = $("#arrival_date").val();
+                var departure_date = $("#departure_date").val();
+				var arrival_date = arrival_date.replace(/(..).(..).(....)/, "$3-$1-$2");
+				var departure_date = departure_date.replace(/(..).(..).(....)/, "$3-$1-$2");
+                var adultcount = $("#adultcount").val();
+                var childcount = $("#childcount").val();
+                //console.log(reservation_url+'?property_id='+hotel+'&checkIn='+arrival_date+'&checkOut='+departure_date);
+                //console.log(toShortFormat(arrival_date));
+                //+'&checkIn='+arrival_date+'&checkOut='+departure_date
+                window.open(reservation_url+'?propertyId='+hotel+'&checkIn='+arrival_date+'&checkOut='+departure_date);
+            });
+
+            
+            </script>
+<header id="main-header" class="">
+
+			<div class="inner-container container container_half">
+				<div class="l-sec col-xs-8 col-sm-4 col-md-3" style="height:100%">
+					<a href="https://www.hrhhotels.com/index.php" id="f-logo" style="vertical-align: middle;display: table-cell;">
+							<img class="logo" src="./Our Mission_files/Hrh_logo.png" style="vertical-align: middle; margin-top: 0%;">
+						</a>
+				</div>
+				<div class="r-sec col-xs-4 col-sm-8 col-md-9">
+					<nav id="main-menu">
+						<ul class="list-inline">
+							
+							<li class="subdrop main-li active" id="subdropabt"><a href="https://www.hrhhotels.com/our_mission.php#">About<i class="more-less glyphicon glyphicon-plus"></i></a>
+								<ul class="submen">
+								<li><a href="https://www.hrhhotels.com/about.php">About HRH</a></li>
+								<!-- <li><a href="abouthrh.php">About HRH</a></li> -->
+									<li><a href="https://www.hrhhotels.com/Letter_Chairman.php">Letter From Chairman</a></li>
+									<li><a href="https://www.hrhhotels.com/management.php">Management</a></li>
+									<li><a href="https://www.hrhhotels.com/our_mission.php">Our Mission</a></li>
+									<li><a href="https://www.hrhhotels.com/code_of_conduct.php">Code Of Conduct</a></li>
+									<li><a href="https://www.hrhhotels.com/code_of_ethics.php">Code Of Ethics</a></li>
+									<li><a href="https://www.hrhhotels.com/testimonial.php">Testimonials</a></li>
+									<li><a href="https://www.hrhhotels.com/definition_logo.php">Definition Of Logo</a></li>
+								</ul>
+							</li>
+							<li class="subdrop main-li" id="subdrophot">
+										 <a href="javascript:void(0);">Our&nbsp;Hotels<i class="more-less glyphicon glyphicon-plus"></i> </a>
+								<ul class="submen">
+									<li class="subdrop" id="subdropher">
+										<a class="sub_menu_title" href="javascript:void(0);" target="_blank">Grand Heritage  <i class="more-less glyphicon glyphicon-plus"></i></a>
+										<ul class="hotelsubmenuamen submeninner ">
+											<!-- <li><a target="_blank" href="hotels/fateh_prakash_palace">Fateh Prakash Palace</a></li> -->
+											<li><a target="_blank" href="https://www.hrhhotels.com/hotels/shiv_niwas_palace">Shiv Niwas Palace</a></li>	
+											<li><a target="_blank" href="https://www.hrhhotels.com/hotels/gajner_palace">Gajner Palace (Heritage)</a></li>
+											<li><a target="_blank" href="https://www.hrhhotels.com/hotels/jagmandir_island_palace">Jagmandir Island Palace<br>(Heritage)</a></li>
+										</ul>
+									</li>
+									<li class="subdrop" id="subdroproyal"> <a class="sub_menu_title" href="javascript:void(0);" target="_blank">Royal Retreats <i class="more-less glyphicon glyphicon-plus"></i></a>
+										<ul class="hotelsubmenuamen submeninner ">
+											<li><a target="_blank" href="https://www.hrhhotels.com/hotels/shikarbadi_hotel">Shikarbadi Hotel</a></li>
+											<li><a target="_blank" href="https://www.hrhhotels.com/hotels/garden_hotel">Garden Hotel</a></li>
+											<li><a target="_blank" href="https://www.hrhhotels.com/hotels/the_aodhi_hotel/">The Aodhi</a></li>
+											<li><a target="_blank" href="https://www.hrhhotels.com/hotels/fateh_bagh/">Fateh Bagh</a></li>
+											<!-- <li><a target="_blank" href="hotels/gorbandh_palace/">Gorbandh palace</a></li> -->
+                      						<li><a target="_blank" href="https://www.hrhhotels.com/hotels/karni_bhawan_palace/">Karni Bhawan Palace</a></li>
+										</ul>
+									</li>
+								
+									<li class="subdrop" id="subdrospecial">
+									    <a class="sub_menu_title" href="https://www.hrhhotels.com/special-package.php" target="_blank">Special Packages <i class="more-less glyphicon glyphicon-plus"></i> </a>
+									    <ul class="hotelsubmenuamen submeninner ">
+									     <!--  <li><a  target="_blank" href="pdfs/Tariff-April-September-2022.pdf">Regular Tariff<br> April - September 2022</a></li> -->
+									      <li><a target="_blank" href="https://www.hrhhotels.com/pdfs/Tariff-October2022-March2023.pdf">Regular Tariff<br> October 2022 - March 2023</a></li>
+									    </ul>
+									</li>
+
+									<!-- <li><a href="regal_club.php">Regal Club Membership</a></li> -->
+								</ul>
+							</li>
+							<li class="subdrop main-li" id="subdropamen"><a href="javascript:void(0);">Experiences <i class="more-less glyphicon glyphicon-plus"></i></a>
+								<ul class="submen">
+									<li class="subdrop" id="subdropregal">
+										<a href="javascript:void(0);">Regal Experiences <i class="more-less glyphicon glyphicon-plus"></i></a>
+									<ul class="hotelsubmenuamen submeninner">
+											<li><a href="https://www.hrhhotels.com/regal-exp-about.php">About</a></li>
+											<li><a href="https://www.hrhhotels.com/conferences.php">Conferences</a></li>
+											<li><a href="https://www.hrhhotels.com/meetings.php">Meetings</a></li>
+											<li><a href="https://www.hrhhotels.com/events.php">Events</a></li>
+											<li><a href="https://www.hrhhotels.com/shoots.php">Shoots</a></li>
+											<li><a href="https://www.hrhhotels.com/incentives.php">Incentives</a></li>
+											<li><a href="https://www.hrhhotels.com/recent_conference.php">Recent Events <br> and Conferences</a></li>
+
+									</ul>
+									</li>
+									<li class="subdrop" id="subdroprewed"><a href="javascript:void(0);">Regal Weddings <i class="more-less glyphicon glyphicon-plus"></i> </a>
+									<ul class="hotelsubmenuamen submeninner">
+									<li><a href="https://www.hrhhotels.com/regalwedding-about.php">About</a></li>
+										<li><a href="https://www.hrhhotels.com/venues.php">Venues</a></li>
+											<li><a href="https://www.hrhhotels.com/suggested-itineraries.php">Suggested Itineraries</a></li>
+											<li><a href="https://www.hrhhotels.com/suggested-menu.php">Suggested Menus</a></li>
+											<li><a href="https://www.hrhhotels.com/gallery.php">Photo Gallery</a></li>
+									</ul>
+
+									</li>
+									<li><a href="https://www.hrhhotels.com/spa-salon.php">Spa and Salon</a></li>
+								</ul>
+							</li>
+							<li class="subdrop main-li" id="subdropattract"><a href="javascript:void(0);">Attractions 
+								<i class="more-less glyphicon glyphicon-plus"></i></a>
+									<ul class="submen">
+									<li><a href="https://www.hrhhotels.com/attractions.php">Attractions during your stay  </a></li>
+									<li><a href="https://www.hrhhotels.com/mewar-sound-and-light-show.php">The Mewar Sound and Light Show</a></li>
+									<li><a href="https://www.hrhhotels.com/vintage-classic-car-collection.php">The Vintage and Classic Car Collection</a></li>
+									<li><a href="https://www.hrhhotels.com/city-palace-museum.php">The City Palace Museum</a></li>
+									<li><a href="https://www.hrhhotels.com/crystal-gallery.php">Crystal Gallery</a></li>
+									<li><a href="https://www.hrhhotels.com/boat-charters.php">Jagmandir Island Palace Excursion</a></li>
+									<li><a href="https://www.hrhhotels.com/jagriti-at-jagmandir-island-palace.php">Jagriti at Jagmandir Island Palace</a></li>
+									<li><a href="https://www.hrhhotels.com/ashka.php">Aashka, The City Palace</a></li>
+
+									</ul>
+							</li>
+							<li class="main-li"><a href="https://www.hrhhotels.com/awards.php">Awards</a>
+
+							</li>
+							<!-- <li><a href="blog.php">Offers</a> -->
+							<li class="main-li"><a href="https://www.hrhhotels.com/offers.php">Events &amp; Offers</a>
+							</li>
+							<li class="main-li"><a href="https://www.hrhhotels.com/gallery.php">Gallery</a></li>
+							<li class="subdrop main-li" id="subdropcont">
+								<a href="javascript:void(0);">Contact Us  <i class="more-less glyphicon glyphicon-plus"></i></a>
+							<ul class="submen">
+										<li><a href="https://www.hrhhotels.com/enquiry-feedback.php">	Enquiries &amp; Feedback</a></li>
+										<li><a href="https://www.hrhhotels.com/reservation-events.php">	Reservation &amp; Events</a></li>
+										<!-- <li><a  href="javascript:void(0);">	Maps</a></li> -->
+										<li><a href="https://www.hrhhotels.com/sales-marketing.php">		Sales &amp; Marketing</a></li>
+										<li><a href="https://www.hrhhotels.com/press-media.php">	Press &amp; Media</a></li>
+										<li><a href="https://www.hrhhotels.com/careers.php">	Careers</a></li>
+							</ul>
+							</li>
+
+			                 
+						</ul>
+					</nav>
+					<div id="main-menu-handle" class="menu-btn btn-type-2"><i class="fa fa-bars"></i><i class="fa fa-close"></i></div><!-- Mobile Menu handle -->
+
+				</div>
+			</div>
+			<div id="mobile-menu-container"><nav id="main-menu" class="">
+						<ul class="list-inline">
+							
+							<li class="subdrop main-li active" id="subdropabt"><a href="https://www.hrhhotels.com/our_mission.php#">About<i class="more-less glyphicon glyphicon-plus"></i></a>
+								<ul class="submen">
+								<li><a href="https://www.hrhhotels.com/about.php">About HRH</a></li>
+								<!-- <li><a href="abouthrh.php">About HRH</a></li> -->
+									<li><a href="https://www.hrhhotels.com/Letter_Chairman.php">Letter From Chairman</a></li>
+									<li><a href="https://www.hrhhotels.com/management.php">Management</a></li>
+									<li><a href="https://www.hrhhotels.com/our_mission.php">Our Mission</a></li>
+									<li><a href="https://www.hrhhotels.com/code_of_conduct.php">Code Of Conduct</a></li>
+									<li><a href="https://www.hrhhotels.com/code_of_ethics.php">Code Of Ethics</a></li>
+									<li><a href="https://www.hrhhotels.com/testimonial.php">Testimonials</a></li>
+									<li><a href="https://www.hrhhotels.com/definition_logo.php">Definition Of Logo</a></li>
+								</ul>
+							</li>
+							<li class="subdrop main-li" id="subdrophot">
+										 <a href="javascript:void(0);">Our&nbsp;Hotels<i class="more-less glyphicon glyphicon-plus"></i> </a>
+								<ul class="submen">
+									<li class="subdrop" id="subdropher">
+										<a class="sub_menu_title" href="javascript:void(0);" target="_blank">Grand Heritage  <i class="more-less glyphicon glyphicon-plus"></i></a>
+										<ul class="hotelsubmenuamen submeninner ">
+											<!-- <li><a target="_blank" href="hotels/fateh_prakash_palace">Fateh Prakash Palace</a></li> -->
+											<li><a target="_blank" href="https://www.hrhhotels.com/hotels/shiv_niwas_palace">Shiv Niwas Palace</a></li>	
+											<li><a target="_blank" href="https://www.hrhhotels.com/hotels/gajner_palace">Gajner Palace (Heritage)</a></li>
+											<li><a target="_blank" href="https://www.hrhhotels.com/hotels/jagmandir_island_palace">Jagmandir Island Palace<br>(Heritage)</a></li>
+										</ul>
+									</li>
+									<li class="subdrop" id="subdroproyal"> <a class="sub_menu_title" href="javascript:void(0);" target="_blank">Royal Retreats <i class="more-less glyphicon glyphicon-plus"></i></a>
+										<ul class="hotelsubmenuamen submeninner ">
+											<li><a target="_blank" href="https://www.hrhhotels.com/hotels/shikarbadi_hotel">Shikarbadi Hotel</a></li>
+											<li><a target="_blank" href="https://www.hrhhotels.com/hotels/garden_hotel">Garden Hotel</a></li>
+											<li><a target="_blank" href="https://www.hrhhotels.com/hotels/the_aodhi_hotel/">The Aodhi</a></li>
+											<li><a target="_blank" href="https://www.hrhhotels.com/hotels/fateh_bagh/">Fateh Bagh</a></li>
+											<!-- <li><a target="_blank" href="hotels/gorbandh_palace/">Gorbandh palace</a></li> -->
+                      						<li><a target="_blank" href="https://www.hrhhotels.com/hotels/karni_bhawan_palace/">Karni Bhawan Palace</a></li>
+										</ul>
+									</li>
+								
+									<li class="subdrop" id="subdrospecial">
+									    <a class="sub_menu_title" href="https://www.hrhhotels.com/special-package.php" target="_blank">Special Packages <i class="more-less glyphicon glyphicon-plus"></i> </a>
+									    <ul class="hotelsubmenuamen submeninner ">
+									     <!--  <li><a  target="_blank" href="pdfs/Tariff-April-September-2022.pdf">Regular Tariff<br> April - September 2022</a></li> -->
+									      <li><a target="_blank" href="https://www.hrhhotels.com/pdfs/Tariff-October2022-March2023.pdf">Regular Tariff<br> October 2022 - March 2023</a></li>
+									    </ul>
+									</li>
+
+									<!-- <li><a href="regal_club.php">Regal Club Membership</a></li> -->
+								</ul>
+							</li>
+							<li class="subdrop main-li" id="subdropamen"><a href="javascript:void(0);">Experiences <i class="more-less glyphicon glyphicon-plus"></i></a>
+								<ul class="submen">
+									<li class="subdrop" id="subdropregal">
+										<a href="javascript:void(0);">Regal Experiences <i class="more-less glyphicon glyphicon-plus"></i></a>
+									<ul class="hotelsubmenuamen submeninner">
+											<li><a href="https://www.hrhhotels.com/regal-exp-about.php">About</a></li>
+											<li><a href="https://www.hrhhotels.com/conferences.php">Conferences</a></li>
+											<li><a href="https://www.hrhhotels.com/meetings.php">Meetings</a></li>
+											<li><a href="https://www.hrhhotels.com/events.php">Events</a></li>
+											<li><a href="https://www.hrhhotels.com/shoots.php">Shoots</a></li>
+											<li><a href="https://www.hrhhotels.com/incentives.php">Incentives</a></li>
+											<li><a href="https://www.hrhhotels.com/recent_conference.php">Recent Events <br> and Conferences</a></li>
+
+									</ul>
+									</li>
+									<li class="subdrop" id="subdroprewed"><a href="javascript:void(0);">Regal Weddings <i class="more-less glyphicon glyphicon-plus"></i> </a>
+									<ul class="hotelsubmenuamen submeninner">
+									<li><a href="https://www.hrhhotels.com/regalwedding-about.php">About</a></li>
+										<li><a href="https://www.hrhhotels.com/venues.php">Venues</a></li>
+											<li><a href="https://www.hrhhotels.com/suggested-itineraries.php">Suggested Itineraries</a></li>
+											<li><a href="https://www.hrhhotels.com/suggested-menu.php">Suggested Menus</a></li>
+											<li><a href="https://www.hrhhotels.com/gallery.php">Photo Gallery</a></li>
+									</ul>
+
+									</li>
+									<li><a href="https://www.hrhhotels.com/spa-salon.php">Spa and Salon</a></li>
+								</ul>
+							</li>
+							<li class="subdrop main-li" id="subdropattract"><a href="javascript:void(0);">Attractions 
+								<i class="more-less glyphicon glyphicon-plus"></i></a>
+									<ul class="submen">
+									<li><a href="https://www.hrhhotels.com/attractions.php">Attractions during your stay  </a></li>
+									<li><a href="https://www.hrhhotels.com/mewar-sound-and-light-show.php">The Mewar Sound and Light Show</a></li>
+									<li><a href="https://www.hrhhotels.com/vintage-classic-car-collection.php">The Vintage and Classic Car Collection</a></li>
+									<li><a href="https://www.hrhhotels.com/city-palace-museum.php">The City Palace Museum</a></li>
+									<li><a href="https://www.hrhhotels.com/crystal-gallery.php">Crystal Gallery</a></li>
+									<li><a href="https://www.hrhhotels.com/boat-charters.php">Jagmandir Island Palace Excursion</a></li>
+									<li><a href="https://www.hrhhotels.com/jagriti-at-jagmandir-island-palace.php">Jagriti at Jagmandir Island Palace</a></li>
+									<li><a href="https://www.hrhhotels.com/ashka.php">Aashka, The City Palace</a></li>
+
+									</ul>
+							</li>
+							<li class="main-li"><a href="https://www.hrhhotels.com/awards.php">Awards</a>
+
+							</li>
+							<!-- <li><a href="blog.php">Offers</a> -->
+							<li class="main-li"><a href="https://www.hrhhotels.com/offers.php">Events &amp; Offers</a>
+							</li>
+							<li class="main-li"><a href="https://www.hrhhotels.com/gallery.php">Gallery</a></li>
+							<li class="subdrop main-li" id="subdropcont">
+								<a href="javascript:void(0);">Contact Us  <i class="more-less glyphicon glyphicon-plus"></i></a>
+							<ul class="submen">
+										<li><a href="https://www.hrhhotels.com/enquiry-feedback.php">	Enquiries &amp; Feedback</a></li>
+										<li><a href="https://www.hrhhotels.com/reservation-events.php">	Reservation &amp; Events</a></li>
+										<!-- <li><a  href="javascript:void(0);">	Maps</a></li> -->
+										<li><a href="https://www.hrhhotels.com/sales-marketing.php">		Sales &amp; Marketing</a></li>
+										<li><a href="https://www.hrhhotels.com/press-media.php">	Press &amp; Media</a></li>
+										<li><a href="https://www.hrhhotels.com/careers.php">	Careers</a></li>
+							</ul>
+							</li>
+
+			                 
+						</ul>
+					</nav></div>
+		</header>
+
+		<!--popup code-->
+
+			<div class="popup container effect-fade-scale" id="popup-dialog">
+  <div class="popup-content">
+   <button class="popup-close ravis-btn btn-type-2" style="float: right;">Close</button>
+<section id="main-availability-form">
+				<div class="inner-container container">
+					<div class="l-sec col-md-4">
+						<div class="ravis-title">
+							<div class="inner-box">
+								<div class="title">Find &amp; book your hotel</div>
+								<div class="sub-title">When you want to be our guest?</div>
+							</div>
+						</div>
+					</div>
+					<div class="r-sec col-md-8">
+						<form class="booking-form clearfix" action="javascript:void(0);"><!-- Do Not remove the classes -->
+							<div class="col-md-10">
+								<div class=" row">
+									<div class="booking-fields col-md-6">
+										<select name="room-type">
+											<option value="">Hotels</option>
+											<!-- Select box items ( you can change the items and its value based on your project's needs ) -->
+											<option value="2">Jagmandir Island Palace, Udaipur</option>
+											<option value="3">Shiv Niwas Palace,Udaipur</option>
+											<!-- <option value="4">Fateh Prakash Palace, Udaipur</option> -->
+											<option value="5">Shikarbadi Hotel, Udaipur</option>
+											<option value="6">Garden Hotel, Udaipur</option>
+											<option value="6">The Aodhi, Kumbhalgarh</option>
+											<option value="6">Karni Bhawan Palace, Bikaner</option>
+											<option value="6">Gajner Palace, Bikaner</option>
+											<!-- <option value="6">Gorbandh Palace, Jaisalmer</option> -->
+										</select>
+									</div>
+									<div class="input-daterange booking-fields col-md-6">
+										<input placeholder="Check In" class="datepicker-fields check-out" type="text" name="end">
+										<i class="fa fa-calendar"></i>
+									</div>
+								</div>
+								<div class="row">
+									<div class="booking-fields col-md-6">
+										<!-- Select boxes ( you can change the items and its value based on your project's needs ) -->
+										<select name="room-type">
+											<option value="">Adults</option>
+											<!-- Select box items ( you can change the items and its value based on your project's needs ) -->
+											<option value="2">1</option>
+											<option value="3">2</option>
+											<option value="4">3</option>
+											<option value="5">4</option>
+											<option value="6">5</option>
+										</select>
+										<!-- End of Select boxes -->
+									</div>
+									<div class="booking-fields col-md-6">
+										<select name="guest">
+											<option value="">Children</option>
+											<option value="1">1</option>
+											<option value="2">2</option>
+											<option value="3">3</option>
+											<option value="4">4</option>
+											<option value="5">5</option>
+										</select>
+									</div>
+								</div>
+								<!-- hotel 3rd div start here-->
+								<div class="row">
+									<div class="booking-fields col-md-6">
+										<!-- Select boxes ( you can change the items and its value based on your project's needs ) -->
+										<select name="room-type">
+											<option value="">Nights</option>
+											<!-- Select box items ( you can change the items and its value based on your project's needs ) -->
+											<option value="1">1</option>
+											<option value="2">2</option>
+											<option value="3">3</option>
+											<option value="4">4</option>
+											<option value="5">5</option>
+											<option value="6">6</option>
+											<option value="7">7</option>
+											<option value="8">8</option>
+											<option value="9">9</option>
+											<option value="10">10</option>
+											<option value="11">11</option>
+											<option value="12">12</option>
+											<option value="13">13</option>
+											<option value="14">14</option>
+											<option value="15">15</option>
+											<option value="16">16</option>
+											<option value="17">17</option>
+											<option value="18">18</option>
+											<option value="19">19</option>
+											<option value="20">20</option>
+											<option value="21">21</option>
+											<option value="22">22</option>
+											<option value="23">23</option>
+											<option value="24">24</option>
+											<option value="25">25</option>
+											<option value="26">26</option>
+											<option value="27">27</option>
+											<option value="28">28</option>
+											<option value="29">29</option>
+											<option value="30">30</option>
+											<option value="31">31</option>
+										</select>
+										<!-- End of Select boxes -->
+									</div>
+
+									<div class="booking-fields col-md-6">
+										<!-- Input boxes  -->
+									<input type="text" class="email" placeholder="Access code/IATA code: (For travel agent only)">
+										<!-- End of Input boxes -->
+									</div>
+								</div>
+								<!--hotel 3rd div end here-->
+
+								<!-- hotel 4th div start here-->
+								<div class="row">
+									<div class="booking-fields col-md-6">
+										<!-- Select boxes ( you can change the items and its value based on your project's needs ) -->
+										<p class="text-center white"> HRH Packages at <br> <strong><a href="https://www.hrhhotels.com/hotels/shiv_niwas_palace" target="_blank"> Grand Heritage Palaces </a></strong><br> and Royal Retreats
+										<!-- End of Select boxes -->
+									</p></div>
+
+									<div class="booking-fields col-md-6 text-center">
+										<!-- Input boxes  -->
+									<strong class="text-center white">Toll Free Nos. For Reservation<br>(within India)<br>1800 180 2933, 1800 180 2944</strong>
+										<!-- End of Input boxes -->
+									</div>
+								</div>
+								<!--hotel 4th div end here-->
+							</div>
+
+							<div class="col-md-2">
+								<button type="submit" class="ravis-btn btn-type-1">
+									<span class="inner-box">
+										Check Availability
+									</span>
+								</button>
+							</div>
+							<div class="col-md-2 height"></div>
+							<div class="col-md-2">
+								<button type="submit" class="ravis-btn btn-type-1">
+									<span class="inner-box">
+										Cancel Reservation
+									</span>
+								</button>
+							</div>
+						</form>
+
+					</div>
+				</div>
+			</section>
+
+
+
+
+  </div>
+</div>
+<link href="./Our Mission_files/jquery.popup.css" rel="stylesheet" type="text/css">
+<script src="./Our Mission_files/jquery.min.js.download"></script>
+<script src="./Our Mission_files/jquery.popup.js.download"></script>
+<script src="./Our Mission_files/jquery.popup.dialog.min.js.download"></script>
+
+<script>
+(function($){
+        $(function(){
+          $('[data-dialog]').on('click', function(e){
+            var $this = $(e.target);
+            $($this.data('dialog')).attr('class', 'popup '+$this.data('effect'));
+          });
+        });
+      })(jQuery);
+  $(document).ready(function(){
+  	//start();
+ 
+    $(document).on('click', '[data-action="watch-video"]', function(e){
+
+      e.preventDefault();
+
+      var plugin = $('#popup-video.popup').data('popup');
+
+      $('#popup-video.popup .embed-container').html(
+        '<iframe src="'
+        + e.currentTarget.href
+        + '?autoplay=1" frameborder="0" allowfullscreen />'
+      );
+
+      plugin.open();
+    });
+
+  });
+
+
+
+</script>
+
+<!--end of popup-->
+		<!-- End of Header Section -->
+
+		<!--Breadcrumb Section-->
+		<section id="breadcrumb-section" data-bg-img="assets/img/banner/about_banner.jpg" style="background-image: url(&quot;assets/img/banner/about_banner.jpg&quot;);">
+			<div class="inner-container container">
+				<div class="ravis-title">
+					<div class="inner-box">
+						<div class="title">Our Mission</div>
+						<div class="sub-title">To fulfil our commitment to royal hospitality</div>
+					</div>
+				</div>
+
+				<!-- <div class="breadcrumb">
+					<ul class="list-inline">
+							<li><a href="javascript:void(0);">About</a></li>
+						<li class="current"><a href="our_mission.php">Our Mission</a></li>
+					</ul>
+				</div> -->
+				<div class="custom-breadcrumps">
+					<ol class="breadcrumb">
+					    <li><a href="https://www.hrhhotels.com/index.php">Home</a></li>		  
+					    <li class="active">Our Mission </li>        
+					 </ol>
+				</div>
+			</div>
+
+
+		</section>
+		<!--End of Breadcrumb Section-->
+
+		<!--Welcome Section-->
+		<section id="welcome-section" class="has-user">
+			<div class="inner-container container">
+				<div class="l-sec col-md-6">
+					<div class="ravis-title-t-1">
+						<div class="title"><span>Our Mission</span></div>
+						<div class="sub-title"></div>
+					</div>
+					<div class="content">
+						In our endeavour to preserve the royal legacy of Mewar, we are committed to:
+						<p class="text-justify">Preserving the royal heritage, culture and traditions of India, and presenting themmeaningfully to our guests in the 21st century.<br>
+						Becoming the leaders in heritage hospitality, offering world-class facilities and unique holiday opportunities for our guests from all over the world.<br>
+						Atithi Devo Bhava: "The Guest is God". By honouring and serving our guests, as we would serve the Divine, we take forward the Indian essence and tradition of personalised service towards guests within the organisation.<br>
+						Building an ethical and employee-friendly organisation that can strive towards making this vision a reality.<br>
+						Initiating environment-protection programmes and developmental plans to positively impact the quality of life in the present and for future generations.
+						<br></p>
+						<p class="text-justify color_maroon" style="font-weight:bold">Shriji Arvind Singh Mewar <br>
+                         Chairman and Managing Director</p>
+					</div>
+
+
+				</div>
+				<div class="r-sec col-md-5">
+					<div class="user-img-box">
+						<div class="inner-box">
+
+							<img src="./Our Mission_files/mission.jpg" alt="HRH Mission" title="HRH Mission">
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--End of Welcome Section-->
+
+
+			</div>
+		
+		<!-- End of Our History -->
+
+		<!--Footer Section-->
+		 <style type="text/css">
+    label.error{color: red !important;}
+ </style>
+ <div class="footer">
+        <aside class="container footer-grid animate-text">
+            <div class="col-xs-12 col-md-3 columns">
+                <div class="footer-content footer-widget-1">
+                    <section id="text-2" class="widget widget_text">
+                        <div class="textwidget">
+                            <p><img src="./Our Mission_files/Hrh_logo(1).png"></p><p>
+                            </p><p style="line-height: 24px;">
+                                Historic Resort Hotels (HRH) is India’s only chain of heritage palace-hotels and resorts under private ownership. Headquartered in Udaipur, a city founded in 1559 on the banks of Lake Pichola, HRH Group of Hotels is preserving palaces and sanctuary - resorts. The group offers regal experiences in island-palaces, museums, galleries, car collections, and much more.
+                            </p>
+                        </div>
+                    </section>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-3 columns">
+                <div class="footer-content footer-widget-2">
+              <section id="text-3" class="widget widget_text">
+                        <div class="widget-title"><span>Site Links</span></div>
+                        <div class="textwidget">
+                            <p><a href="https://www.hrhhotels.com/about.php">About us</a>
+                                <br>
+                                <a href="https://www.hrhhotels.com/awards.php">Awards</a>
+                                <br>
+                                <a href="https://www.hrhhotels.com/management.php">Management</a>
+                                <br>
+                                <a href="https://www.hrhhotels.com/testimonial.php">Testimonial</a>
+                                <br>
+                                <a href="https://www.hrhhotels.com/careers.php">Careers</a></p>
+                        </div>
+                    </section>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-3 columns">
+                <div class="footer-content footer-widget-3">
+                    <section id="recent-posts-4" class="widget widget_recent_entries">
+                        <div class="widget-title"><span>Recent Posts</span></div>
+                         <ul>
+                            <li>
+                                <a href="https://www.hrhhotels.com/meetings.php">Meetings</a>
+                            </li>
+                            <li>
+                                <a href="https://www.hrhhotels.com/incentives.php">Incentives</a>
+                            </li>
+                            <li>
+                                <a href="https://www.hrhhotels.com/conferences.php">Conferences</a>
+                            </li>
+                               <li>
+                                <a href="https://www.hrhhotels.com/events.php">Events</a>
+                            </li>
+                            <li>
+                                <a href="https://www.hrhhotels.com/shoots.php"> Shoots</a>
+                            </li>
+
+                        </ul>
+                    </section>
+                   
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-3 columns">
+                <div class="footer-content footer-widget-4">
+                    <section id="newsletter_widget-2" class="widget widget widget-wrapper widget-newsletter">
+                        <div class="widget-title"><span>Newsletter</span></div>
+                        <div class="forms-style newsletter-form">
+                            <div class="newsletter-form-wrapper">
+                                <form name="mc-embedded-subscribe-form" method="post" id="subscribe_infra" class="validate" novalidate="novalidate">
+                                    <input type="hidden" name="action" value="newsletter_request">
+                                    <fieldset class="newsletter-details">
+                                        <div class="n-text email n-input mf-input">
+                                            <label for="n_email">E-mail</label>
+                                            
+                                            <input type="email" value="" name="mce_email" class="email" id="mce_email" placeholder="Enter email" required="" aria-required="true">
+                                        </div>
+                                    </fieldset>
+                                    <div class="text-right text-center-xs">
+                                        <input name="subscribe" type="submit" class="btn btn-single btn-xs btn-solid btn-accent btn-newsletter" id="mc-embedded-subscribe2" value="Submit">
+                                        
+                                    </div>
+                                   
+                                    <div class="errormsgsub"></div>
+                                    <div class="errormsgsub1"></div>
+                                </form>
+                            </div>
+                        </div>
+                    </section>
+                    <div id="scroll-up">
+                        <i class="fa fa-angle-up"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright col-xs-12 col-md-12 columns">
+                <div class="col-xs-12  col-md-12 columns text-center">
+                    <ul class="extra-links">
+                      <li>
+                        <a href="https://www.hrhhotels.com/accessibility_statement.php" target="_blank">Accessibility Statement</a>
+                      </li>
+                      <li>
+                        <a href="https://www.hrhhotels.com/terms_conditions.php" target="_blank">Terms &amp; Conditions</a>
+                      </li>
+                      <li>
+                        <a href="https://www.hrhhotels.com/privacy_policy.php" target="_blank">Privacy Statement</a>
+                      </li>
+                      <li>
+                        <a href="mailto:redressalforum@eternalmewar.in" target="_blank">Redressal Forum</a>
+                      </li>
+                       <li>
+                        <a href="https://www.hrhhotels.com/sitemap.php" target="_blank">Sitemap</a>
+                      </li>
+                    </ul>
+                </div>
+                
+             </div>
+            <div class="col-xs-12 col-md-12 columns mg-btm">
+                <div class="col-xs-12 col-md-12 columns text-center">
+                    © Copyright 2017 | All Rights Reserved | Shriji Arvind Singh Mewar of Udaipur
+                </div>
+                <!-- <div class="col-xs-12 col-md-4     columns text-right">
+                    Powered By <a href="http://firsteconomy.com/" target="_blank">First Economy</a>
+                </div> -->
+             </div>
+        </aside>
+    </div>
+   
+   <script>
+     $(document).ready(function(){
+	    $(".datepicker").datepicker({
+                     format: "dd/mm/yyyy",
+                     autoclose: true
+                });
+	 });
+   </script>
+   <script type="text/javascript">
+       $(function() {
+
+     $('form#subscribe_infra').validate({ // initialize the plugin
+      rules: {
+        
+        email:
+        {
+          required: true
+        }
+      },
+
+      submitHandler: function (form) {
+
+        var formData = new FormData(form);
+        $('#mc-embedded-subscribe2').prop('disabled', true);
+        $.ajax({
+          async: false,
+          type: "POST",
+          url: 'subscribe.php',
+          data: formData,
+          contentType: false, // The content type used when sending data to the server.
+          cache: false, // To unable request pages to be cached
+          processData:false, // To send DOMDocument or non processed data file it is set to false
+
+      success: function(result) {console.log(result);
+        if(result == 0)
+        {
+          $('#mc-embedded-subscribe2').removeAttr('disabled');
+          $('.errormsgsub1').html('Something Went Wrong,Try Again.');
+          setTimeout(function() {
+           $('.errormsgsub1').fadeOut();
+           $('#mce_email').val('')
+         }, 4000 );
+          $("#mc-embedded-subscribe2").val("Submit");
+
+        }
+        else if(result == 2)
+        {
+          $('.errormsgsub').css('display','block');
+          $('#mc-embedded-subscribe2').removeAttr('disabled');
+          $('.errormsgsub').html('Please Enter Email Address.'); 
+          return false;
+        }
+        else{
+          $('#mc-embedded-subscribe2').removeAttr('disabled');
+          $('.errormsgsub').html('Thank you for contacting us.'); 
+          setTimeout(function() {
+           $('.errormsgsub').fadeOut();
+            $('#mce_email').val('')
+         }, 4000 );
+
+        } 
+      }//end success
+
+
+    });
+
+      }
+    });
+    }); 
+
+       /* Setting Canonical Metadata */
+      var link = document.createElement('link');
+      var url = window.location.href;
+      link.rel = 'canonical';
+      link.href = url;
+      document.head.appendChild(link);
+   </script>
+          		<!--End of Footer Section-->
+
+	
+
+	<!-- JS Include Section -->
+	<script type="text/javascript" src="./Our Mission_files/jquery-3.1.0.min.js.download"></script>
+	<script type="text/javascript" src="./Our Mission_files/helper.js.download"></script>
+	<script type="text/javascript" src="./Our Mission_files/jquery.magnific-popup.min.js.download"></script>
+	<script type="text/javascript" src="./Our Mission_files/template.js.download"></script>
+	 <script src="./Our Mission_files/jquery.validate.min.js.download"></script>
+
+
+</body></html>
